@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "靴の花火",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-28T09:33:13.338113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "靴の花火",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_靴の花火_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "靴の花火",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_靴の花火_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "靴の花火",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_靴の花火_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヨルシカ - 靴の花火 (Music Video)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_ヨルシカ_-_靴の花火_(Music_Video)_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "靴の花火",
+      "artist": "ヨルシカ & n-buna",
+      "has_synced": true,
+      "path": "select/05_靴の花火_ヨルシカ_&_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "靴の花火",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/06_靴の花火_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "靴の花火 - Re-Recording",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/07_靴の花火_-_Re-Recording_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "靴の花火",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_靴の花火_ヨルシカ.txt"
+    }
+  ]
+}
